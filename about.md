@@ -12,4 +12,4 @@ Gloria has performed as a part of many different recitals and has played electri
 
 Gloria also has experience working with programming languages such as Java and C++, and is currently learning about Artificial Intelligence and UI Design at OU.
 
-If you would like to contact Glori, please use the email listed...somewhere
+If you would like to contact Gloria, please use the email listed...somewhere
