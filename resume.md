@@ -4,7 +4,6 @@ title: "Resume"
 permalink: /resume/
 ---
 
-Here's my resume: (this page will probably show my CV instead but I need to update it first lol)
-For now please refer to my LinkedIn account (link on home page)
+Here's my resume: (reminder to myself to replace with updated CV later)
 
-<object data="/assets/resume.pdf" width="100%" height="600"></object>
+<object data="/assets/CS_resume_Atoyebi.pdf" width="100%" height="600"></object>
