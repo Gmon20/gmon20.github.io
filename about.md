@@ -14,4 +14,4 @@ Gloria also has experience working with programming languages such as Java, Pyth
 
 Gloria is currently continuing to create new arrangements for percussion. At the same time, she is starting to work in the Computer Science industry in Information Technology. Gloria is also in the middle of a very long project she calls "playing a keyboard with an SNES via the Super MIDI Pak except why can't I get it to work (working title)."
 
-If you would like to contact Gloria, please use the email listed...somewhere
+If you would like to contact Gloria, please send an email to eatoyebi7@gmail.com. Or find her on social media (Twitter should be at the bottom of the page)
