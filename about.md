@@ -12,4 +12,4 @@ Gloria has performed as a part of many different recitals and has played electri
 
 Gloria is currently a member of the Thumder Drummers, the offical drumline of the OKC Thunder basketball team, and Resistance Indoor Percussion. In addition, she is continuing to create new arrangements for percussion. At the same time, she is also starting to work in the Computer Science industry.
 
-If you would like to contact Gloria, please send an email to eatoyebi7@gmail.com. Or find her on social media (Twitter should be at the bottom of the page). Gloria is very open to any collaboration projects! 
+If you would like to contact Gloria, please send an email to gciialt7@gmail.com. Or find her on social media (Twitter should be at the bottom of the page). Gloria is very open to any collaboration projects! 
