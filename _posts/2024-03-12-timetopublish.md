@@ -17,3 +17,5 @@ Here are the links to the music! https://www.sheetmusicdirect.com/en-US/se/ID_No
 4/15 UPDATE: Another score has been published! A shorter, updated version of Jishou Mushoku is now live! Here are the links: 
 https://www.sheetmusicdirect.com/en-US/se/ID_No/1516486/Product.aspx
 https://www.sheetmusicplus.com/en/product/jishou-mushoku-22740017.html
+
+Since this version is pretty different from the version on MuseScore, I will keep the old one up (unless something happens and i have to take it down for some reason). But if you plan on playing it at all please consider purchasing the published version I am but a poor musician lol
