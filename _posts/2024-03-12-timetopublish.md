@@ -13,3 +13,7 @@ MuseScore to a different site where I can actually sell them. It may take a whil
 
 Here are the links to the music! https://www.sheetmusicdirect.com/en-US/se/ID_No/1497157/Product.aspx https://www.sheetmusicplus.com/en/product/one-winged-angel-22717214.html
 (also i will replace the placeholder images eventually lol)
+
+4/15 UPDATE: Another score has been published! A shorter, updated version of Jishou Mushoku is now live! Here are the links: 
+https://www.sheetmusicdirect.com/en-US/se/ID_No/1516486/Product.aspx
+https://www.sheetmusicplus.com/en/product/jishou-mushoku-22740017.html
