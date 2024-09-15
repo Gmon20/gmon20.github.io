@@ -3,7 +3,7 @@ layout: post
 title:  "A New Band...?"
 summary: "I have a concept of a plan for a band"
 date:   2024-09-15 12:09:33
-preview: /assets/youfullsize.png
+preview: /assets/youpreview.png
 ---
 
 ![Picture 1](/assets/timpani_land.png)
