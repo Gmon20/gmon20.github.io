@@ -8,14 +8,18 @@ preview: /assets/postpreviewNEW.png
 
 ![Picture 1](/assets/fullsizeNEW.png)
 
-I mentioned this at the end of my MuseScore post, but i am finally in the process of getting my scores published! I only have one right now ("One-Winged Angel" from Final Fantasy 7), but eventually I plan on getting as many of my arrangements as possible from
-MuseScore to a different site where I can actually sell them. It may take a while, since I'll have to sift through all of my eligible scores and make sure they're all playable, but I'll get there eventually lol.
+Here are the links to all of the pieces that I have published so far:
 
-Here are the links to the music! https://www.sheetmusicdirect.com/en-US/se/ID_No/1497157/Product.aspx https://www.sheetmusicplus.com/en/product/one-winged-angel-22717214.html
-(also i will replace the placeholder images eventually lol)
+"One-Winged Angel" from Final Fantasy 7:
+https://www.sheetmusicdirect.com/en-US/se/ID_No/1497157/Product.aspx
+https://www.sheetmusicplus.com/en/product/one-winged-angel-22717214.html
 
-4/15 UPDATE: Another score has been published! A shorter, updated version of Jishou Mushoku is now live! Here are the links: 
+"Jishou Mushoku" by name:
 https://www.sheetmusicdirect.com/en-US/se/ID_No/1516486/Product.aspx
 https://www.sheetmusicplus.com/en/product/jishou-mushoku-22740017.html
 
-Since this version is pretty different from the version on MuseScore, I will keep the old one up (unless something happens and i have to take it down for some reason). But if you plan on playing it at all please consider purchasing the published version I am but a poor musician lol
+"Hold Up" by Beyonce:
+https://www.sheetmusicdirect.com/en-US/se/ID_No/1660969/Product.aspx
+https://www.sheetmusicplus.com/en/product/hold-up-22918378.html
+
+I'll update this list when I publish more arrangements!
