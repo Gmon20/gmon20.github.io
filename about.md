@@ -12,4 +12,4 @@ Gloria has performed as a part of many different recitals and has played electri
 
 Gloria is continuing to create new arrangements for percussion. At the same time, she is also continuing to work in the Computer Science industry.
 
-If you would like to contact Gloria, please send an email to gciialt7@gmail.com. Or find her on social media (Twitter should be at the bottom of the page). Gloria is very open to any collaboration projects! 
+If you would like to contact Gloria, please send an email to gciialt7@gmail.com. Alternativly, you can find her on social media (Twitter should be at the bottom of the page).
