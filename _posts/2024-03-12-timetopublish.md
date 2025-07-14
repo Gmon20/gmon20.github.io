@@ -8,7 +8,7 @@ preview: /assets/postpreviewNEW.png
 
 ![Picture 1](/assets/fullsizeNEW.png)
 
-Here are the links to all of the pieces that I have published so far:
+I've started to publish my arrangements! Here are the links to all of the pieces that I have published so far:
 
 "One-Winged Angel" from Final Fantasy 7:
 https://www.sheetmusicdirect.com/en-US/se/ID_No/1497157/Product.aspx
