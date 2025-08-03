@@ -6,7 +6,7 @@ date:   2025-08-03 16:26:05
 preview: /assets/smartpreview.png
 ---
 
-![Picture 1](/assets/fullsizessmart.png)
+![Picture 1](/assets/fullsizesmart.png)
 
 Yep, you read that title right-I started another decomp project! This time, I'm attempting to decompile Are You Smarter than a 5th Grader: Make the Grade for PS2. This time around, I actually manage to find enough stuff floating around online to get past the "import file into Ghidra" stage! The main reason why I decided to try something like this again is because I played this game a lot as a kid, and still enjoy playing it from time to time now. That being said, a lot of the questions are getting repetitve, and I'd like to add some new ones in there if I can. Also, I love game mods that place the most random charcters into a new game, and the thought of creating the scene of a certain blue-haired virtual singer getting grilled by Jeff Foxworthy is hilarous to me. I looked online for any resources out there for any existing mods for the game (or even a way to mod ps2 games in general), and came up empty handed. So naturally, I thought, "Guess I'll have to do it myself!"
 
