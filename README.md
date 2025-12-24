@@ -1,4 +1,8 @@
-# Urban Theme (Portfolio) Quick Start
+# My Website!
+
+This is the repo for my website! Feel free to check it out.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G4V30BM)
 
 ## Sample
 
