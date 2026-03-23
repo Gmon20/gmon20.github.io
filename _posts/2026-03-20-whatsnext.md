@@ -21,11 +21,6 @@ able to sit down and nail that "oto-ing" stuff, but I'll make a seperate post fo
 This was alluded to above, but I plan on making a pretty big cover next! I'm keeping details on the down-low for now, but I expect it to be twice as big 
 workload-wise as the Eien no Akuruhi cover I did a few years back. More info coming...later, I guess?
 
-### Portfolio
-
-I have also been adding some things to my official audio portfolio on Audio.com. The playlist can be found here: [(link)](https://audio.com/gmon23/collections/portfolio)
-I will continue to update this periodically as I create more professional-level work!
-
 ### MTG Decomp
 
 This is just here because it is technically "in progress," but it's on an indefinite hiatus until I can get some help working on it.
