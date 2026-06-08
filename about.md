@@ -14,4 +14,6 @@ When not performing live, Gloria records with groups like the Virtual Video Game
 
 Gloria is currently a member of the Oklahoma Chamber Symphony and continues to work in the Computer Science industry while completing her MMMT degree.
 
+You can view Gloria's EPK [here.](https://docs.google.com/document/d/1bjeFb2CEjIF4JiGk7rAV-50ZfRVchG9Qmhv9GYYPZ0E/edit?usp=sharing)
+
 For business inquiries, please send an email to gciialt7@gmail.com.
