@@ -8,7 +8,7 @@ preview: /assets/upcomingSmall.png
 
 ![Picture 1](/assets/upcoming.png)
 
-To comback my huge lack of posting so far this year, I'm going to use this post to list all of the projects I'm currently working on!
+To combat my huge lack of posting so far this year, I'm going to use this post to list all of the projects I'm currently working on!
 
 ### New Voicebank
 
@@ -18,8 +18,9 @@ able to sit down and nail that "oto-ing" stuff, but I'll make a seperate post fo
 
 ### Next Cover
 
-This was alluded to above, but I plan on making a pretty big cover next! I'm keeping details on the down-low for now, but I expect it to be twice as big 
-workload-wise as the Eien no Akuruhi cover I did a few years back. More info coming...later, I guess?
+I've been working on a EP with 5 covers for my next release! A preview video is up on my YouTube channel if you want to
+see what it'll sound like. The plan is to release it before the end of August, so be sure to subscribe so that you don't
+miss it! 
 
 ### MTG Decomp
 
