@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/3.2_Headshot_1.png)
+![Picture 1](/assets/headshot_full.png)
 
 Gloria Atoyebi is a percussionist, audio engineer, and music arranger. Based in Edmond, Oklahoma, she holds a Bachelor of Musical Arts with a Minor in Computer Science from the University of Oklahoma (OU). Currently, she is pursuing a Master of Music Technology with an emphasis in Game Audio and Film Music (MMMT) at Southern Utah University (SUU). As a student at OU, she was a member of the Wind Symphony, OU Steel Band, OU Brazilian Ensemble, and The Pride of Oklahoma. Gloria studied under Dr. Andrew Richardson and Dr. Ben Holmes at OU and Kit Chatham at SUU.
 
