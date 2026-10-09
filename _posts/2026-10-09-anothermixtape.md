@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Second EP is Out!"
-summary: "5 *more* VGM songs!"
+summary: "6 *more* VGM songs!"
 date:   2026-10-09 10:47:12
 preview: /assets/dive_art2.png
 ---
